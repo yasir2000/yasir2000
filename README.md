@@ -13,7 +13,7 @@
 
 > I love to learn things new in technologies, And want to be a part in open source community.
 
-> I’m a DevOps Engineer at Ankara in Turkey. I also love to making game and tools. that’s all I’ve got to say! 😎
+> I’m a DevOps Architect at Ankara in Turkey. I also love to making game and tools. that’s all I’ve got to say! 😎
 
 ## 🔧 Technologies & Tools
 
