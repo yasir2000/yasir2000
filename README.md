@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, My name is Yasir Karam ![Profile views](https://gpvc.arturio.dev/YasirKaramdev)
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, My name is Yasir Karam 
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=a6ngps3wvs27z3m3x5vgw8r8r&redirect=true" target="blank">
   <img align="right"
