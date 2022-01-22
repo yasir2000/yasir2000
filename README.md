@@ -62,6 +62,6 @@
 ## &#x1f4c8; Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasir2000&show_icons=true&theme=dracula&hide_border=true)](https://YasirKaram.dev)
-[![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasir2000&theme=solarized_dark)]
-[![Commits per day per hour (UTC)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasir2000&theme=solarized_dark)]
+![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasir2000&theme=solarized_dark)
+![Commits per day per hour (UTC)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasir2000&theme=solarized_dark)
 [![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir2000&langs_count=10&layout=compact&card_width=445&theme=dracula&hide_border=true)](https://YasirKaram.dev)
